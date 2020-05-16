@@ -15,11 +15,23 @@ I am assuming you know how to load an overlay in Retroarch. The "retroarch_templ
 * Viewport x = 690
 * Viewport y = 153
 
+**4K Widescreen**
+* Viewport Height = 1847
+* Viewport Width = 3193
+* Viewport x = 323
+* Viewport y = 156
+
 **1080**
 * Viewport Height = 927
 * Viewport Width = 1231
 * Viewport x = 345
 * Viewport y = 76
 
-This should get you started. Depending on the shader you use, you may have to tweak things a bit, including screen curvature if using.
+**1080 Widescreen**
+* Viewport Height = 924
+* Viewport Width = 1597
+* Viewport x = 161
+* Viewport y = 78
+
+This should get you started. Depending on the shader you use, you may need to tweak things a bit, including screen curvature if using.
 
