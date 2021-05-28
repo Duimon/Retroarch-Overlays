@@ -15,6 +15,12 @@ I am assuming you know how to load an overlay in Retroarch. The "retroarch_templ
 * Viewport x = 690
 * Viewport y = 153
 
+**4K No Curvature**
+* Viewport Height = 2044
+* Viewport Width = 2688
+* Viewport x = 576
+* Viewport y = 58
+
 **4K Widescreen**
 * Viewport Height = 1847
 * Viewport Width = 3193
@@ -26,6 +32,12 @@ I am assuming you know how to load an overlay in Retroarch. The "retroarch_templ
 * Viewport Width = 1231
 * Viewport x = 345
 * Viewport y = 76
+
+**1080 No Curvature**
+* Viewport Height = 1022
+* Viewport Width = 1344
+* Viewport x = 288
+* Viewport y = 29
 
 **1080 Widescreen**
 * Viewport Height = 924
