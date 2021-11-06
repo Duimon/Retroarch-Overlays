@@ -19,10 +19,3 @@ Extract from ['CC BY-NC-SA 4.0' Commons Deed](#https://creativecommons.org/licen
 > - No additional restrictions &#8212; You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
 For further reading check the ['CC BY-NC-SA 4.0' legal code](#https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en).
-
-
-  
-### REVISION CLAUSE
-***************************
-The author may at any time revise these Terms and Conditions by updating this documentary.
-You are bound by the most current Terms and Conditions every time you visit this repository, or any of the author's related websites, therefore you should periodically review these Terms and Conditions to which you are bound.
