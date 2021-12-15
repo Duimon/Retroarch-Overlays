@@ -60,3 +60,6 @@ I am assuming you know how to load an overlay in Retroarch. The "retroarch_templ
 This should get you started. Depending on the shader you use, you may need to tweak things a bit, including screen curvature if using. I personally use CRT-Geom with the Bezel overlays, they also work well with the curvature shader in Batocera.
 
 Although there is some clipping, the "No curvature" overlays work OTB on Android phones.
+___
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
