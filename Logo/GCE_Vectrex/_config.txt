@@ -1,0 +1,17 @@
+___
+
+3840x2160
+
+custom_viewport_height = "1369"
+custom_viewport_width = "1110"
+custom_viewport_x = "1365"
+custom_viewport_y = "199"
+___
+
+1920x1080
+
+custom_viewport_height = "685"
+custom_viewport_width = "556"
+custom_viewport_x = "682"
+custom_viewport_y = "99"
+___
