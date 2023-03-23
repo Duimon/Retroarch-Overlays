@@ -1,8 +1,0 @@
-X Position = 1370
-Y Position = 88
-
-Width = 1100
-
-Height = 1969
-
-Screen gap = 74
